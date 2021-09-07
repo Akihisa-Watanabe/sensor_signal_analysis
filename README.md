@@ -5,7 +5,7 @@ This code performs basic analysis on signals obtained from sensors such as biolo
 * Noise Removal, Variation Removal 
 * Feature Extraction
 * Anomaly Detection, Change Detection
-* Classification, Pattern Matching
+* Classification, Pattern Matching
 * Prediction
 
 
@@ -20,7 +20,7 @@ This code performs basic analysis on signals obtained from sensors such as biolo
 ## Anomaly Detection, Change Detection
 * Singular Spectrum Transformation
 
-## Classification, Pattern Matching
+## Classification, Pattern Matching
 * Dynamic Time Warping
 
 
